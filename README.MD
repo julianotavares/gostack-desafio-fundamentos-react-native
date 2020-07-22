@@ -70,9 +70,4 @@ yarn start
 
 ````
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/20192309/82109305-37832f00-970b-11ea-92e9-b0ff6a5be0b5.gif" />
-</h1>
-
-
-Feito com ♥ by Juliano :wave:
+Feito com ♥  by Juliano :wave:
